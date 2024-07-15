@@ -1,2 +1,2 @@
 Hi I am learning jenkins
-Jenkins pipeline
+Jenkins pipelines
